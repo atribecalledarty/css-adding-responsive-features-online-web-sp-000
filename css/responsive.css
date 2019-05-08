@@ -30,6 +30,6 @@
   .col-3 p {
     column-rule: 1px dotted #ccc;
     column-gap: 1.5em;
-    column-count: 3;
+    column-count: 2;
   }
 }
